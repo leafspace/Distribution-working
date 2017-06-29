@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>resources/images/stupid bird.jpg</file>
+    </qresource>
+
+    <qresource prefix="/icon">
+        <file name="open-file" >resources/images/open-file.png</file>
+    </qresource>
+</RCC>
